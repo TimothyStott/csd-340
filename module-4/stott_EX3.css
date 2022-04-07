@@ -1,0 +1,62 @@
+h1{
+    text-align: center;
+    font-family: 'Oswald',Verdana,Arial,sans-serif;
+}
+
+h3{
+    font-weight: 500;
+}
+
+#movies, #things{
+    width: 45%;
+    display: inline-table;
+    font-family: 'Oswald',Verdana,Arial,sans-serif;
+    border: 1px;
+    border-radius: 15px;
+    border-color: red;
+
+}
+
+#movies{
+
+    border-style: solid;
+}
+
+#things{
+
+    border-style: dashed;
+}
+
+#lastDiv{
+    width: 100%;
+    margin-top: 60%;
+    margin-bottom: 20px;
+}
+
+ol,ul{
+    padding: 10px;
+    list-style-position: inside;
+    font-weight: 300;
+}
+
+
+ul{
+    list-style-type: upper-roman;
+}
+
+#back,#myfav{
+    font-family: 'Oswald',Verdana,Arial,sans-serif;
+    text-decoration: none;
+}
+
+#back:hover,#myfav:hover{
+    text-decoration: underline;
+}
+
+#back:visited,#myfav:visited{
+    text-decoration: none;
+}
+
+#back{
+    float: right;
+}
