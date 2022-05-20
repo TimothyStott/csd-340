@@ -11,6 +11,6 @@
 <ul>
   <li> Professor Michale McGee</li>
   <li> Timothy Stott </li>
-</ul
+</ul>
 </html>
 
